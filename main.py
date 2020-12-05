@@ -1,7 +1,4 @@
-# https://repl.it/@Levashov/messenger
-
-# name = input('Введите имя: ')
-# print('Hello, ' + name)
+# https://www.youtube.com/watch?v=SsZWVnIipa4&feature=emb_logo
 
 import time
 import datetime
