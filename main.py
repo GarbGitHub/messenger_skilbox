@@ -44,3 +44,6 @@ def print_messages(messages):
         print(beauty_time, message['name'])
         print(message['text'])
         print()
+
+
+print_messages(db)

@@ -70,7 +70,7 @@ def get_messages():
         return abort(400)
 
     messages = []
-    #print(messages)
+    # print(messages)
 
     for message in db:
         if message['time'] > after:
